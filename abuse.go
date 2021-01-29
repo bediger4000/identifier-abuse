@@ -1,6 +1,6 @@
 package main
 
-import "scope/list"
+import "identifier-abuse/list"
 
 func main() {
 	list.Xlist(10)
