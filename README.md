@@ -54,3 +54,20 @@ but this 2-line version causes compiler errors.
 I conjecture that there are hidden problems with ":="
 shortcut creation and initialization,
 but I can't figure out what they may be.
+
+---
+
+## C language version
+
+[C identifier abuse](list.c)
+
+I only got to 5 identifers of different things in C89 C.
+
+1. typedef name
+2. struct tag 
+3. struct member
+4. label
+5. variable
+
+I'm not sure this is worth doing in Python or PHP,
+and I'm revolted by C++ and Java.
