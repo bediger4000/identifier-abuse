@@ -18,7 +18,7 @@ I chose the identifier "list".
 6. shadow variable list
 7. shadowed variable list
 
-Inside [list/types.go], `func Xlist` has all 7 uses:
+[Inside](list/types.go), `func Xlist` has all 7 uses:
 
 ```go
 package list // 1. package
